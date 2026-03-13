@@ -1,0 +1,400 @@
+/* body {
+  background-color: wheat;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h4 {
+  color: brown;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+  color: red;
+  line-height: 50px;
+}
+h4 {
+  text-align: center;
+}
+textarea {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: black;
+}
+button {
+  align-items: center;
+  text-decoration-color: blueviolet;
+} */
+
+/* 2 question */
+/* h1 {
+  text-align: left;
+  color: blue;
+}
+button {
+  background-color: aqua;
+  color: black;
+}
+#search {
+  background-color: black;
+  color: aliceblue;
+}
+ */
+
+/* #h1 {
+  color: blue;
+}
+
+* {
+  text-align: center;
+  font-family: Georgia;
+}
+
+p {
+  color: cornflowerblue;
+  background-color: black;
+}
+
+DIV button {
+  background-color: purple;
+  color: azure;
+}
+
+* {
+  background-color: wheat;
+} */
+
+/* traffic light */
+
+/* .outer {
+  height: 200px;
+  width: 70px;
+  border: 2px solid black;
+  margin: 20px;
+}
+
+.inner {
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.call1 {
+  background-color: red;
+}
+.call2 {
+  background-color: yellow;
+}
+.call3 {
+  background-color: green; */
+/* } */
+
+/* div {
+  height: 150px;
+  width: 300px;
+  background-color: gray;
+  margin-top: 20px;
+  margin-right: 1em;
+  margin-bottom: 40px;
+  margin-left: 2em;
+  padding: 1em;
+} */
+
+/* question no 2
+.create {
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+  border: 2px solid black;
+  margin: 20%;
+  display: inline-block;
+} */
+
+/* question no 3 */
+
+/* button {
+  height: 200px;
+  width: 200px;
+  color: black;
+  border: 2px solid black;
+  background-color: burlywood;
+  padding: 2px;
+  transition: 2s;
+}
+
+button:hover {
+  margin: 30px;
+  background-color: whitesmoke;
+  shape-margin: 50px;
+} */
+
+/* div {
+  margin: 30px;
+  height: 100px;
+  width: 100px;
+  color: black;
+  background-color: brown;
+  transition: 2s;
+}
+
+div:hover {
+  margin: 100px;
+  background-color: aqua;
+  margin-top: 50px;
+} */
+
+/* * {
+  background-color: wheat;
+}
+.outer {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  background-color: rgb(228, 185, 12);
+}
+
+.eyes {
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 80px 40px 70px 70px;
+  display: inline-block;
+}
+
+.mouth {
+  height: 80px;
+  width: 250px;
+  background-color: brown;
+  position: absolute;
+  top: 260px;
+  left: 80px;
+  border-radius: 0px 0px 40px 40px; */
+/* }
+
+.outer :hover {
+  background-color: yellow;
+} */
+
+/* Qs1. Add a 2s transition on box1 for width changes.
+It should have 'ease-in' speed curve & 0.5s delay */
+/* #box1 {
+  width: 100px;
+  height: 100px;
+  background: green;
+  transition: ease-in 0.5s;
+}
+#box1:hover {
+  width: 600px;
+} */
+/* Qs2. Using transform, move box2 200px to the right &
+200px down. Also rotate it 90deg.*/
+/* #box2 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transform: rotate(90deg);
+  position: relative;
+  left: 200px;
+  top: 200px;
+} */
+
+/* Qs3. Using transform, skew box3 20deg along the x axis.*/
+/* #box3 {
+  width: 100px;
+  height: 100px;
+  background: lightblue;
+  transform: rotateX(20deg);
+} */
+/* Qs4. Set a 2px horizontal & 2px vertical, green shadow
+for box4, with a 5px blur radius.*/
+/* #box4 {
+  width: 100px;
+  height: 100px;
+  background: lightgreen;
+  background-color: greenyellow;
+  box-shadow: 10px 3px 5px 6px green;
+} */
+/* Qs5. Set Your picture or any picture as the background of
+the div
+"myPic". Also, set transparency of this div to 50%. */
+/* #myPic {
+  width: 200px;
+  height: 200px;
+  background: pink;
+  background-image: url(men.jpg);
+  opacity: 50%;
+  background-size: auto;
+} */
+
+/* .container {
+  height: 300px;
+  width: 700px;
+  border: solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#container div {
+  height: 400px;
+  width: 100px;
+} */
+
+/* .outer {
+  height: 600px;
+  width: 600px;
+  border: 2px solid black;
+}
+
+* {
+  background-color: wheat;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.cube {
+  height: 150px;
+  width: 150px;
+  background-color: gray;
+  font-size: 100px;
+  font-family: "Times New Roman", Times, serif;
+
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .cube :hover {
+  text-align: center;
+} */
+
+/* .border {
+  height: 30px;
+  width: 600px;
+  border: 4px solid blue;
+  background-color: pink;
+  box-shadow: 2px 2px 2px 1px blue;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* box-shadow: 2px 3px 4px 8px solid blue; */
+/* } */
+
+/* .inner {
+  margin-left: 20px;
+  margin-top: 4px; */
+/* display: flex;
+  flex-direction: row; */
+/* } */
+
+/* .loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid goldenrod;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */
+
+/* .heading {
+  color: orange;
+  background-color: orange;
+  text-decoration-color: orange;
+}
+
+.pet {
+  color: burlywood;
+}
+
+.card {
+  height: 400px;
+  width: 300px;
+
+  border: 3px solid black;
+  border-radius: 40px;
+  margin-left: 250px;
+  display: inline-block;
+  padding: 4px;
+}
+
+img {
+  height: 200px;
+  width: 280px;
+  border-radius: 30px 30px 30px 30px;
+  margin: 10px;
+}
+
+p {
+  font-size: x-small;
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  margin-left: 10px;
+}
+
+@media (max-width: 667px) {
+  #pets {
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+} */
+
+.card {
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+h2 {
+  color: orange;
+}
+
+span {
+  color: brown;
+}
+
+h4 {
+  text-align: right;
+  color: rgb(16, 170, 129);
+}
+
+#pets {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 667px) {
+  #pets {
+    flex-wrap: wrap;
+  }
+}

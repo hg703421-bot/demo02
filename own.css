@@ -1,0 +1,28 @@
+div {
+  height: 170px;
+  width: 300px;
+  /* border: 2px solid black; */
+
+  border-radius: 4px 4px 0px 0px;
+  box-shadow: 1px 4px 5px 7px gray;
+}
+
+.imagemen {
+  background-image: url(men.jpg);
+  background-image: cover;
+}
+
+.first {
+  border: 2px solid black;
+}
+.name {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: left;
+}
+.course {
+  text-align: left;
+}
+
+.textmen {
+  border: solid black 2px;
+}
